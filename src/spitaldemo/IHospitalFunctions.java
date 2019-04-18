@@ -18,4 +18,5 @@ public interface IHospitalFunctions {
     void Treat(ARoom r);
     
     
+    
 }
