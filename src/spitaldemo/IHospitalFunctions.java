@@ -17,6 +17,8 @@ public interface IHospitalFunctions {
     void MovePatient(APatient p, ARoom from, ARoom to);
     void Treat(ARoom r);
     
+    /*hugo*/
+    
     
     
 }
